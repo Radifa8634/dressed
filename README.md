@@ -1,3 +1,16 @@
+✨ Built using Flutter, this app features:
+
+🛒 User-friendly interface with multiple product categories
+
+🔍 Smart search and filters for easy navigation
+
+📦 Cart and checkout functionality
+
+🎨 Modern, responsive UI
+
+This project helped me enhance my skills in Flutter UI design, state management, and user experience optimization.
+
+
 # dressed
 
 A new Flutter project.
